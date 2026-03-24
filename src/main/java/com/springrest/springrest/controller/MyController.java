@@ -18,7 +18,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
 import com.springrest.springrest.entity.Course;
 import com.springrest.springrest.service.CourseService;
 
-@CrossOrigin(origins = "http://localhost:60384")
+//@CrossOrigin(origins = "http://localhost:60384")
 @RestController
 public class MyController {
 	
