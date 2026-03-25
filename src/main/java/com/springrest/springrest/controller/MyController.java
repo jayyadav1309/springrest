@@ -18,7 +18,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
 import com.springrest.springrest.entity.Course;
 import com.springrest.springrest.service.CourseService;
 
-@CrossOrigin(origins = "http://youtube-courses-production.up.railway.app/")
+@CrossOrigin(origins = "https://youtube-courses-production.up.railway.app/")
 @RestController
 public class MyController {
 	
